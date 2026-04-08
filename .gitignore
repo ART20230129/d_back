@@ -30,4 +30,6 @@ media/
 venv/
 .venv/
 
+.vscode/*
+
 
